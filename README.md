@@ -1,3 +1,8 @@
+# TABLE OF CONTENTS
+## What Kernver and ChromeOS version do I have?
+[What Kernver and ChromeOS version do I have?](#what-kernver-and-chromeos-version-do-i-have)
+
+
 # ditch-enrollment
 # A guide on how to UNENROLL ALL CHROMEBOOKS ON DIFFERENT KERNVERS
 
