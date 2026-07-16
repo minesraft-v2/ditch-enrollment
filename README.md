@@ -19,3 +19,7 @@ then after you download your shim (corresponding to your boardname) head over to
 so head over to: https://github.com/FWNavy/CryptoSmite/blob/main/cryptosmite.md
 and download the stateful.tar.xz and st.tar.xz files.
 then use wax4web to get a injected-shim.bin file and then (im not gonna explain again, just do the steps from SH1MMER to flash on the usb and shit like that..) and yeah, you should be unenrolled now!
+
+
+# KERNVER 3: OlyBmmer: so first get a RECOVERY IMAGE, NOT A RMA SHIM:  [CROS.DOWNLOAD](https://cros.download/recovery)
+and download that, afer thats done head over to, the BadRecovery Web Builder: https://binbashbanana.github.io/badrecovery/ and then you'll get a .bin file (then flash the .bin file onto the usb via Chromebook Recovery Utility.) and yeah! you should be unenrolled now!
