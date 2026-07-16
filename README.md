@@ -29,5 +29,5 @@ and download that, afer thats done head over to, the BadRecovery Web Builder: ht
 oh fuck i meant you have to spoof with an ip AFTER you unenroll, mb.
 
 # KERNVER 5: Br0ker:
-i dont no shit abt kernver 6 unenrollment tho but im sure the quicksilver and badsilver shims are on the: https://dl.snerill.org website.
+i dont know shit abt kernver 6 unenrollment tho but im sure the quicksilver and badsilver shims are on the: https://dl.snerill.org website.
 alr so get Br0ker shim from here: https://github.com/ading2210/sh1mmer/releases/tag/2025.9.19 and btw IGNORE THE ASSETS SECTION, and then yeah your unenrolled after that! (hope you enjoyed my guide!).
