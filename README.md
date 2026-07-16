@@ -8,3 +8,7 @@ A guide on how to UNENROLL ALL CHROMEBOOKS ON DIFFERENT KERNVERS
 
 > [!NOTE]
 > REQUIRMENTS: A USB WITH 8GB+ STORAGE
+
+
+KERNVER 1-2: SH1MMER:
+so first head over to: [CROS.DOWNLOAD](https://cros.download/shims)
