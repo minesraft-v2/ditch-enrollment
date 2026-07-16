@@ -11,4 +11,4 @@ A guide on how to UNENROLL ALL CHROMEBOOKS ON DIFFERENT KERNVERS
 
 
 KERNVER 1-2: SH1MMER:
-so first head over to: [CROS.DOWNLOAD](https://cros.download/shims)
+so first head over to: [CROS.DOWNLOAD](https://cros.download/shims) and download your Chromebook Board name you can find it by heading over to chrome://version.
