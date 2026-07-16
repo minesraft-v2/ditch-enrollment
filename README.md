@@ -12,4 +12,4 @@ A guide on how to UNENROLL ALL CHROMEBOOKS ON DIFFERENT KERNVERS
 
 KERNVER 1-2: SH1MMER:
 so first head over to: [CROS.DOWNLOAD](https://cros.download/shims) and download your Chromebook Board name you can find it by heading over to chrome://version.
-then after you download your shim (corresponding to your boardname) head over to here: [Wax4Web](https://sh1mmer.me/builder).
+then after you download your shim (corresponding to your boardname) head over to here: [Wax4Web](https://sh1mmer.me/builder). then it downloads a .bin file, named something like (injected-shim.bin) then you use [Chromebook Recovery Utility](https://chromewebstore.google.com/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm?hl=en)
