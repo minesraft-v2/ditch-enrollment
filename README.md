@@ -26,3 +26,8 @@ and download that, afer thats done head over to, the BadRecovery Web Builder: ht
 
 
 # KERNVER 4: ICARUS: so i think from my understanding, icarus is a bit different. You gotta spoof with an ip and then unenroll via a usb via shim. so get your Icarus shim from: https://dl.snerill.org/icarus
+oh fuck i meant you have to spoof with an ip AFTER you unenroll, mb.
+
+# KERNVER 5: Br0ker:
+i dont no shit abt kernver 6 unenrollment tho but im sure the quicksilver and badsilver shims are on the: https://dl.snerill.org website.
+alr so get Br0ker shim frm here: https://github.com/ading2210/sh1mmer/releases/tag/2025.9.19 and btw IGNORE THE ASSETS SECTION, and then yeah your unenrolled after that! (hope you enjoyed my guide!).
