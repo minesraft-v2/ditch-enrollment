@@ -55,3 +55,8 @@ alr so get Br0ker shim from here: https://github.com/ading2210/sh1mmer/releases/
 > [!WARNING]
 > DEDEDEICARUS IS ONLY FOR KEYROLLED DEDEDE CHROMEBOOKS IF YOUR CHROMEBOOK IS NOT A DEDEDE BOARD, THEN DEDEDEICARUS IS NOT FOR YOU
 # INSTRUCTIONS ARE ON HERE: https://github.com/crosbreaker/dededeicarus
+
+
+
+# What even is Keyrolling?
+[What Kernver and ChromeOS version do I have?](#What-even-is-Keyrolling?)
