@@ -40,6 +40,5 @@ alr so get Br0ker shim from here: https://github.com/ading2210/sh1mmer/releases/
 # *(You can find your Kernver version by pressing, esc+refresh+power and pressing Tab, Its the line that reads: tpm_kernver=0x00010004, if it reads that, Then Your Kernver is 4! and for your chromeos version you just have to press, Alt+V on then sign-in screen and you'll see your version.)*
 
 
-# KERNVER 6: QUICKSILVER
-
-
+# KERNVER 6: QUICKSILVER:
+# so first head over to https://dl.snerill.org/QuickSilver then download the shim, corresponding to your boardname, then unzip the file and flash the .bin file onto your USB and then boot into quicksilver by pressing, esc+refresh+power then plug in/insert your usb and there you go, goodjob!
