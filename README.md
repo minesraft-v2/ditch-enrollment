@@ -25,8 +25,8 @@ then use wax4web to get a injected-shim.bin file and then (im not gonna explain 
 and download that, afer thats done head over to, the BadRecovery Web Builder: https://binbashbanana.github.io/badrecovery/ and then you'll get a .bin file (then flash the .bin file onto the usb via Chromebook Recovery Utility.) and yeah! you should be unenrolled now!
 
 
-# KERNVER 4: ICARUS: so i think from my understanding, icarus is a bit different. You gotta spoof with an ip and then unenroll via a usb via shim. so get your Icarus shim from: https://dl.snerill.org/icarus
-oh fuck i meant you have to spoof with an ip AFTER you unenroll, mb.
+# KERNVER 4: ICARUS: so i think from my understanding, icarus is a bit different. You gotta unenroll via usb via shim then you spoof with an ip, So after you unenroll go to WiFi-Settings, then Change the Proxy Type to Manual. And to Host your own proxy here: https://www.youtube.com/watch?v=trqwRNPcVV4
+AND AFTER HOSTING ICARUS ON YOUR OWN COMPUTER, MAKE SURE TO THAT After unenrolling change back to direct internet connection in proxy settings
 
 # KERNVER 5: Br0ker:
 i dont know shit abt kernver 6 unenrollment tho but im sure the quicksilver and badsilver shims are on the: https://dl.snerill.org website.
