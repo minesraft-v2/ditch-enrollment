@@ -52,3 +52,4 @@ alr so get Br0ker shim from here: https://github.com/ading2210/sh1mmer/releases/
 # Dededeicarus
 > [!WARNING]
 > DEDEDEICARUS IS ONLY FOR KEYROLLED DEDEDE CHROMEBOOKS IF YOUR CHROMEBOOK IS NOT A DEDEDE ONE THIS METHOD IS NOT FOR YOU
+# INSTRUCTIONS ARE ON HERE: https://github.com/crosbreaker/dededeicarus
