@@ -32,7 +32,7 @@ AND AFTER HOSTING ICARUS ON YOUR OWN COMPUTER, MAKE SURE TO THAT After unenrolli
 
 # KERNVER 5: Br0ker:
 i dont know shit abt kernver 6 unenrollment tho but im sure the quicksilver and badsilver shims are on the: https://dl.snerill.org website.
-alr so get Br0ker shim from here: https://github.com/ading2210/sh1mmer/releases/tag/2025.9.19 and btw IGNORE THE ASSETS SECTION, and then yeah your unenrolled after that! (hope you enjoyed my guide!).
+alr so get Br0ker shim from here: https://github.com/ading2210/sh1mmer/releases/tag/2025.9.19 and btw IGNORE THE ASSETS SECTION. SO first download the RMA shim corresponding to your Boardname and then flash with chromebook recovery utility, then press the keys (esc+refresh+power) then plug in Your USB then just wait, and then yeah your unenrolled after that! (hope you enjoyed my guide!).
 
 
 
