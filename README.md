@@ -60,7 +60,7 @@ So first get your Br0ker shim from here: https://github.com/ading2210/sh1mmer/re
 # What even is Keyrolling?
 
 
-# So Keyrolling is where newer boardnames, (Like Nissa) are like LOCKED DOWN so you can't just like unenroll without like Newer Methods (Like BadSH1mmer) and stuff like that
+# So Keyrolling is where newer boardnames, (Like Nissa) are like LOCKED DOWN so you can't just like unenroll without Newer Methods (Like BadSH1mmer) and stuff like that
 
 
 
