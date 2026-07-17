@@ -45,4 +45,4 @@ alr so get Br0ker shim from here: https://github.com/ading2210/sh1mmer/releases/
 
 
 
-# KEYROLLED CHROMEBOOK UNENROLLMENT GUIDE COMING SOON...
+# KEYROLLED: KERNVER 6 BADSILVER: 
