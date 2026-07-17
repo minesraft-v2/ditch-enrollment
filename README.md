@@ -59,4 +59,6 @@ alr so get Br0ker shim from here: https://github.com/ading2210/sh1mmer/releases/
 
 
 # What even is Keyrolling?
-[What Kernver and ChromeOS version do I have?](#What-even-is-Keyrolling?)
+
+
+# So Keyrolling is where newer boardnames, (Like Nissa) are like LOCKED DOWN so you can't just like unenroll without like Newer Methods (Like BadSH1mmer) and stuff like that.
