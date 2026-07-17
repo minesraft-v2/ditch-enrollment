@@ -62,3 +62,11 @@ alr so get Br0ker shim from here: https://github.com/ading2210/sh1mmer/releases/
 
 
 # So Keyrolling is where newer boardnames, (Like Nissa) are like LOCKED DOWN so you can't just like unenroll without like Newer Methods (Like BadSH1mmer) and stuff like that
+
+
+
+# And What should I do After Unenrolling?
+
+
+
+# ANSWER: I WOULD USE MURKMOD AFTER UNENROLLING SUCESFULLY BECAUSE MURKMOD SPOOFS THE FACT THAT THE CHROMEBOOK GOT UNENROLLED, BECAUSE IF YOU DON'T USE MURKMOD AFTER UNENROLLING YOUR SYSADMIN WILL PROBABLY FIGURE OUT THAT THE CHROMEBOOK IS UNENROLLED FROM THE GOOGLE ADMIN CONSOLE
