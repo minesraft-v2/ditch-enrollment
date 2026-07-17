@@ -45,4 +45,5 @@ alr so get Br0ker shim from here: https://github.com/ading2210/sh1mmer/releases/
 
 
 
-# KEYROLLED: KERNVER 6 BADSILVER: 
+# KEYROLLED: KERNVER 6: 
+there is two methods, both work on kernver 6 keyrolled chromebooks: Badsilver or BadSH1mmer, so first head over to https://dl.snerill.org and pick your method, then download the shim corresponding to your boardname, then (flash onto usb via chromebook recovery utility then press esc+refresh+power then plug in your usb drive and then yeah you should be unenrolled now, good job!
