@@ -73,5 +73,8 @@ So first get your Br0ker shim from here: https://github.com/ading2210/sh1mmer/re
 
 
 > [!WARNING]
-> THIS IS NOT A GUIDE ON HOW TO REMOVE CHROMEOS TO INSTALL WINDOWS WITH RUFUS OR TO INSTALL LINUX, LIKE THIS:
+> THIS IS NOT A GUIDE ON HOW TO REMOVE CHROMEOS TO INSTALL WINDOWS WITH RUFUS, LIKE THIS:
 > <img width="638" height="480" alt="images (11)" src="https://github.com/user-attachments/assets/a0f2d115-9fc7-4fa4-a847-271ab383c57e" />
+
+
+
