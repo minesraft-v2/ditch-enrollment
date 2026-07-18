@@ -83,7 +83,7 @@ So first get your Br0ker shim from here: https://github.com/ading2210/sh1mmer/re
 
 
 
-# USB-Less Exploits:
+# USB-less Exploits:
 KERNVER 1, REQUIRES ChromeOS v101 and below: SHroot
 1. open crosh, (ctrl+alt+t)
 2. paste the following in:
