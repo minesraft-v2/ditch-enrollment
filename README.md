@@ -78,3 +78,5 @@ So first get your Br0ker shim from here: https://github.com/ading2210/sh1mmer/re
 
 
 
+# Credits:
+MercuryW Workshop Team, ading2210, FWNavy, BinBashBannana and Crosbreaker
