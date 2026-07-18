@@ -97,9 +97,25 @@ KERNVER 1, REQUIRES ChromeOS v101 and below: SHroot
 
 ## ChromeOS v129 and below - BadApple + Icarus
 Basically, this abuses both BadApple and Icarus, all without a USB flash drive (unless you need to downgrade). BadApple is an exploit in Ti50/2023+ devices that abuses the Internet Recovery to access a root shell, from which you can use Icarus.
-
 1. Ensure you on on ChromeOS v129 or lower, if you are on KV4, downgrade to a version like v126, if you are on v132, this will not work.
 2. Enter recovery using Esc+refresh+Pwr. If you downgraded from ChromeOS v132, go to Options, then select `Internet Recovery (old)`. If you did not downgrade, just select normal `Internet Recovery`.
 3. Wait for MiniOS to load, then go through the setup process until you get to Wi-Fi setup. Here you need to login to a Wi-Fi network, and then STOP.
 4. Now you press Ctrl+Alt+F3, if it shows a black screen, repeat step 2 but open `Internet Recovery (old)`.
 5. On an Android or Linux device, use Termux/Terminal to host Icarus_
+
+
+
+## CRSH2TTY: All versions (PATCHED!)
+CRSH2TTY has been patched! It will no longer work for ANY Chromebook because it was a server-side bug. The steps remain below for archival purposes.
+
+CRSH2TTY is a very funny exploit. It's a cool universal USB-less exploit that should not even work at all yet it has been tested on many devices, including new ones like `nissa craaskbowl` or `dedede boten` to extremely old ones like `peppy` or `clapper`. No one is exactly sure how this works, but it requires two 2-second waits and then one 15-hour wait to work.
+
+1. Powerwash using `ctrl+shift+q+q` and then `ctrl+alt+shift+r`. If this doesn't work, press `esc+⟳+⏻ ` (`esc+refresh+power`) and then `ctrl+d`, and then `enter`.
+2. Proceed through ChromeOS setup as normal.
+3. When it starts to enroll, wait 2 seconds then restart by preforming an EC reset by pressing `⟳+⏻ ` (`refresh+power`).
+4. When it starts to enroll again, wait 2 seconds and press the recovery shortcut, `esc+⟳+⏻ ` (`esc+refresh+power`) then `⏻ ` (`power`) to turn it off.
+5. Leave it off for ***15 hours*** or more.
+6. Once 15 hours is up, turn on the Chromebook. You should be greeted at the `Welcome to your Chromebook` screen, you should already be connected to Wi-Fi, so press `Get started`.
+7. On the `Get connected` screen, just press `Next`, you should see `Getting your device ready`, wait on this screen, and then you should see `Choose your Chromebook's setup`. 
+9. Hooray!!!
+<img src="/img/tutorial/craaskbowl-unroll-google.png" width="400">
