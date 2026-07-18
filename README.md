@@ -92,3 +92,14 @@ KERNVER 1, REQUIRES ChromeOS v101 and below: SHroot
 5. Just like this:
 
 6. <img width="1217" height="216" alt="crosh-rootesc" src="https://github.com/user-attachments/assets/9ab2be14-337d-468a-bcc6-ee9a950e42f4" />
+
+
+
+## ChromeOS v129 and below - BadApple + Icarus
+Basically, this abuses both BadApple and Icarus, all without a USB flash drive (unless you need to downgrade). BadApple is an exploit in Ti50/2023+ devices that abuses the Internet Recovery to access a root shell, from which you can use Icarus.
+
+1. Ensure you on on ChromeOS v129 or lower, if you are on KV4, downgrade to a version like v126, if you are on v132, this will not work.
+2. Enter recovery using Esc+refresh+Pwr. If you downgraded from ChromeOS v132, go to Options, then select `Internet Recovery (old)`. If you did not downgrade, just select normal `Internet Recovery`.
+3. Wait for MiniOS to load, then go through the setup process until you get to Wi-Fi setup. Here you need to login to a Wi-Fi network, and then STOP.
+4. Now you press Ctrl+Alt+F3, if it shows a black screen, repeat step 2 but open `Internet Recovery (old)`.
+5. On an Android or Linux device, use Termux/Terminal to host Icarus_
