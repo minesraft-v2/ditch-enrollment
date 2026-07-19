@@ -47,7 +47,7 @@ So first get your Br0ker shim from here: https://github.com/ading2210/sh1mmer/re
 
 
 # KEYROLLED: KERNVER 6: 
-There are four methods https://github.com/crosbreaker/baddieapple or https://github.com/crosbreaker/badbr0ker or Visit https://github.com/crosbreaker/badsh1mmer and https://dl.snerill.org/BadSilver. So First head over to: https://dl.snerill.org/ and select your method. Then after the file is done downloading, unzip the file then flash onto a USB drive, via  [Chromebook Recovery Utility](https://chromewebstore.google.com/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm). Then press the keys: (esc+refresh+power) then plug in your USB Drive. And yeah, you should be unenrolled Now!
+There are four methods https://github.com/crosbreaker/baddieapple or https://github.com/crosbreaker/badbr0ker or Visit https://github.com/crosbreaker/badsh1mmer and https://dl.snerill.org/BadSilver. So First head over to: https://dl.snerill.org/ and select your method. Then after the file is done downloading, unzip the file then flash onto a USB drive, via  [Chromebook Recovery Utility](https://chromewebstore.google.com/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm). Then press the keys: (esc+refresh+power) then plug in your USB Drive. and then Hooray Your Unenrolled Now!
 
 
 # Dededeicarus
