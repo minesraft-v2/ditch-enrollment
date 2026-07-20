@@ -54,7 +54,7 @@ There are five methods, : https://github.com/crosbreaker/badbr0ker or Visit http
 
 
 # Credits:
-# Mercury Workshop Team, ading2210, FWNavy, BinBashBannana and Crosbreaker
+# Mercury Workshop Team, ading2210, FWNavy, BinBashBannana, Kkilobyte and Crosbreaker
 
 
 # QUESTIONS:
