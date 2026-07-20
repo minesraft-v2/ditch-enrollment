@@ -74,12 +74,6 @@ There are four methods https://github.com/crosbreaker/baddieapple or https://git
 
 
 
-> [!WARNING]
-> THIS IS NOT A GUIDE ON HOW TO REMOVE CHROMEOS TO INSTALL WINDOWS WITH RUFUS, LIKE THIS:
-> <img width="638" height="480" alt="images (11)" src="https://github.com/user-attachments/assets/a0f2d115-9fc7-4fa4-a847-271ab383c57e" />
-
-
-
 # Credits:
 # Mercury Workshop Team, ading2210, FWNavy, BinBashBannana and Crosbreaker
 
