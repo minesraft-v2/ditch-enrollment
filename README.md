@@ -72,7 +72,15 @@ There are five methods, : https://github.com/crosbreaker/badbr0ker or Visit http
 # ANSWER: I WOULD USE MURKMOD AFTER UNENROLLING SUCCESFULLY BECAUSE MURKMOD SPOOFS THE FACT THAT THE CHROMEBOOK GOT UNENROLLED, BECAUSE IF YOU DON'T USE MURKMOD AFTER UNENROLLING YOUR SYSADMIN WILL PROBABLY FIGURE OUT THAT THE CHROMEBOOK IS UNENROLLED FROM THE GOOGLE ADMIN CONSOLE
 (MURKMOD LINK: https://github.com/rainestorme/murkmod)
 
+
+
+# What even is Keyrolling?
+
+
+# So Keyrolling is where newer boardnames, (Like Nissa) are like LOCKED DOWN so you can't just like unenroll without Newer Methods (Like BadSH1mmer) and stuff like that# So Keyrolling is where newer boardnames, (Like Nissa) are like LOCKED DOWN so you can't just like unenroll without Newer Methods (Like BadSH1mmer) and stuff like that
+
 # USB-less Exploits:
+
 # KERNVER 1, REQUIRES ChromeOS v101 and below: SHroot
 1. open crosh, (ctrl+alt+t)
 2. paste the following in:
