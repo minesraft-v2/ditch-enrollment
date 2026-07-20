@@ -37,12 +37,6 @@ So first get your Br0ker shim from here: https://github.com/ading2210/sh1mmer/re
 
 
 
-## What Kernver and ChromeOS version do I have?
-[What Kernver and ChromeOS version do I have?](#what-kernver-and-chromeos-version-do-i-have)
-
-# *(You can find your Kernver version by pressing, esc+refresh+power and pressing Tab, Its the line that reads: tpm_kernver=0x00010004, if it reads that, Then Your Kernver is 4, and for your chromeos version you just have to press, Alt+V on then sign-in screen and you'll see your version.)*
-
-
 # KERNVER 6: QUICKSILVER:
 # so first head over to https://dl.snerill.org/QuickSilver then download the shim, corresponding to your boardname, then unzip the file and flash the .bin file onto your USB and then boot into quicksilver by pressing, esc+refresh+power then plug in/insert your usb and there you go, goodjob!
 
@@ -59,10 +53,15 @@ There are five methods, : https://github.com/crosbreaker/badbr0ker or Visit http
 
 
 
-# What even is Keyrolling?
+# Credits:
+# Mercury Workshop Team, ading2210, FWNavy, BinBashBannana and Crosbreaker
 
 
-# So Keyrolling is where newer boardnames, (Like Nissa) are like LOCKED DOWN so you can't just like unenroll without Newer Methods (Like BadSH1mmer) and stuff like that
+# QUESTIONS:
+
+## What Kernver and ChromeOS version do I have?
+
+# *(You can find your Kernver version by pressing, esc+refresh+power and pressing Tab, Its the line that reads: tpm_kernver=0x00010004, if it reads that, Then Your Kernver is 4, and for your chromeos version you just have to press, Alt+V on then sign-in screen and you'll see your version.)*
 
 
 
@@ -70,14 +69,8 @@ There are five methods, : https://github.com/crosbreaker/badbr0ker or Visit http
 
 
 
-# ANSWER: I WOULD USE MURKMOD AFTER UNENROLLING SUCCESFULLY BECAUSE MURKMOD SPOOFS THE FACT THAT THE CHROMEBOOK GOT UNENROLLED, BECAUSE IF YOU DON'T USE MURKMOD AFTER UNENROLLING YOUR SYSADMIN WILL PROBABLY FIGURE OUT THAT THE CHROMEBOOK IS UNENROLLED FROM THE GOOGLE ADMIN CONSOLE (MURKMOD LINK: https://github.com/rainestorme/murkmod)
-
-
-
-# Credits:
-# Mercury Workshop Team, ading2210, FWNavy, BinBashBannana and Crosbreaker
-
-
+# ANSWER: I WOULD USE MURKMOD AFTER UNENROLLING SUCCESFULLY BECAUSE MURKMOD SPOOFS THE FACT THAT THE CHROMEBOOK GOT UNENROLLED, BECAUSE IF YOU DON'T USE MURKMOD AFTER UNENROLLING YOUR SYSADMIN WILL PROBABLY FIGURE OUT THAT THE CHROMEBOOK IS UNENROLLED FROM THE GOOGLE ADMIN CONSOLE
+(MURKMOD LINK: https://github.com/rainestorme/murkmod)
 
 # USB-less Exploits:
 # KERNVER 1, REQUIRES ChromeOS v101 and below: SHroot
