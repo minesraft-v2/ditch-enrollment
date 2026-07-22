@@ -4,7 +4,7 @@
 ## Table of Contents:
 - [Unenrollment](#Unenrollment)
 - [Questions](#Questions)
-- [KEYROLLED: KERNVER 6:](#KEYROLLED: KERNVER 6:)
+-  [KEYROLLED: KERNVER 6:](#KEYROLLED: KERNVER 6:)
 - [USB-less Exploits](#USB-less Exploits)
 
 > [!WARNING]
