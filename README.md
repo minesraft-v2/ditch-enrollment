@@ -6,6 +6,7 @@
 * [Questions](#questions)
 * [Keyrolled: Kernver 6](#keyrolled-kernver-6)
 * [USB-less Exploits](#usb-less-exploits)
+* [Payloads](#payloads)
 
 > [!WARNING]
 > I am not held responsible for ANY trouble you get in using this repo
@@ -84,6 +85,10 @@ There are five methods, : https://github.com/crosbreaker/badbr0ker or Visit http
 
 
 # So Keyrolling is where newer boardnames, (Like Nissa) are like LOCKED DOWN so you can't just like unenroll without Newer Methods (Like BadSH1mmer) and stuff like that# So Keyrolling is where newer boardnames, (Like Nissa) are like LOCKED DOWN so you can't just like unenroll without Newer Methods (Like BadSH1mmer) and stuff like that
+
+# Payloads
+
+
 
 # USB-less Exploits:
 
