@@ -16,12 +16,12 @@
 
 # Unenrollment
 
-# KERNVER 1-2: SH1MMER:
+# KERNVER 1-2, ver 110 : SH1MMER:
 so first head over to: [CROS.DOWNLOAD](https://cros.download/shims) and download your Chromebook Board name you can find it by heading over to chrome://version.
 then after you download your shim (corresponding to your boardname) head over to here: [Wax4Web](https://sh1mmer.me/builder). then it downloads a .bin file, named something like (injected-shim.bin) then you use [Chromebook Recovery Utility](https://chromewebstore.google.com/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm?hl=en) to flash the injected-shim onto the USB drive. then you press, esc+refesh+power and then hit ctrl+d then press esc+refresh+power again and then plug in your USB drive and then once your in the sh1mmer payload select Unenroll!
 
 
-# KERNVER 2: CRYPTOSMITE:
+# KERNVER 2, ver 120 : CRYPTOSMITE:
 so head over to: https://github.com/FWNavy/CryptoSmite/blob/main/cryptosmite.md
 and download the stateful.tar.xz and st.tar.xz files.
 then use wax4web to get a injected-shim.bin file and then (im not gonna explain again, just do the steps from SH1MMER to flash on the usb and shit like that..) and yeah, you should be unenrolled now!
@@ -29,21 +29,21 @@ then use wax4web to get a injected-shim.bin file and then (im not gonna explain 
 # KERNVER 2: DAUB:
 so head over to: https://dl.snerill.org/Daub then download the shim corresponding to your boardname, then flash onto USB via Chromebook Recovery Utility, then press and hold down the keys: (esc+refresh+power) then plug in your USB drive then just wait. Then you should be unenrolled now! Hooray!
 
-# KERNVER 3: OlyBmmer: so first get a RECOVERY IMAGE, NOT AN RMA SHIM:  [CROS.DOWNLOAD](https://cros.download/recovery)
+# KERNVER 3, ver 124 : OlyBmmer: so first get a RECOVERY IMAGE, NOT AN RMA SHIM:  [CROS.DOWNLOAD](https://cros.download/recovery)
 and download that, afer thats done head over to, the BadRecovery Web Builder: https://binbashbanana.github.io/badrecovery/ and then you'll get a .bin file (then flash the .bin file onto the usb via Chromebook Recovery Utility.) and yeah! you should be unenrolled now!
 
 
-# KERNVER 4: ICARUS: so i think from my understanding, icarus is a bit different. You gotta unenroll via usb via shim then you spoof with an ip.
+# KERNVER 4, ver 130 ICARUS : so i think from my understanding, icarus is a bit different. You gotta unenroll via usb via shim then you spoof with an ip.
 So head over to here: https://dl.snerill.org/icarus to get your RMA shim (Corresponding to your Boardname)
 So after you unenroll go to WiFi-Settings, then Change the Proxy Type to Manual. And to Host your own proxy here: https://www.youtube.com/watch?v=trqwRNPcVV4
 AND AFTER HOSTING ICARUS ON YOUR OWN COMPUTER, MAKE SURE TO THAT After unenrolling change back to direct internet connection in proxy settings
 
-# KERNVER 5: Br0ker:
+# KERNVER 5, ver 133 Br0ker:
 So first get your Br0ker shim from here: https://github.com/ading2210/sh1mmer/releases/tag/2025.9.19 and btw IGNORE THE ASSETS SECTION. SO first download the RMA shim corresponding to your Boardname and then flash with chromebook recovery utility, then press the keys (esc+refresh+power) then plug in Your USB then just wait, and then yeah your unenrolled after that! (hope you enjoyed my guide!).
 
 
 
-# KERNVER 6: QUICKSILVER:
+# KERNVER 6, ver 141 QUICKSILVER:
 # so first head over to https://dl.snerill.org/QuickSilver then download the shim, corresponding to your boardname, then unzip the file and flash the .bin file onto your USB and then boot into quicksilver by pressing, esc+refresh+power then plug in/insert your usb and there you go, goodjob!
 
 
