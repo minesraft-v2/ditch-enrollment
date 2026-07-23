@@ -92,6 +92,10 @@ SH1MMER and Br0ker
 
 <img width="1366" height="768" alt="sh1mmer" src="https://github.com/user-attachments/assets/dca4aabf-6caa-4037-bb6b-791ee3f2ddfd" />
 
+BadRecovery or (OlyBmmer)
+
+<img width="3024" height="4032" alt="badrecovery" src="https://github.com/user-attachments/assets/67461f1c-d6e1-4728-8f4f-41bda4aedfc3" />
+
 
 # USB-less Exploits:
 
